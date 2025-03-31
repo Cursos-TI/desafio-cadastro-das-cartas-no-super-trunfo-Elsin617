@@ -58,21 +58,21 @@ int main() {
     printf("\n=== Dados informados ===\n");
     printf("**** Carta 01 ****\n");
     printf("Estado: %c\n", estado_01);
-    printf("Codigo: %s\n", codigo_carta_01);
+    printf("Código: %s\n", codigo_carta_01);
     printf("Cidade: %s\n", cidade_01);
     printf("Populacao: %d\n", populacao_01);
-    printf("Area: %.2f\n", area_01);
-    printf("PIB: %.2f\n", PIB_01);
-    printf("Numero de pontos turisticos: %d\n", num_pontos_tur_01);
+    printf("Área: %.3f km² \n", area_01);
+    printf("PIB: %.2f bilhões de reais\n", PIB_01);
+    printf("Número de pontos turísticos: %d\n", num_pontos_tur_01);
 
     printf("**** Carta 02 ****\n");
     printf("Estado: %c\n", estado_02);
-    printf("Codigo: %s\n", codigo_carta_02);
+    printf("Código: %s\n", codigo_carta_02);
     printf("Cidade: %s\n", cidade_02);
     printf("Populacao: %d\n", populacao_02);
-    printf("Area: %.2f\n", area_02);
-    printf("PIB: %.2f\n", PIB_02);
-    printf("Numero de pontos turisticos: %d\n", num_pontos_tur_02);
+    printf("Área: %.3f km² \n", area_02);
+    printf("PIB: %.2f bilhões de reais\n", PIB_02);
+    printf("Número de pontos turísticos: %d\n", num_pontos_tur_02);
     
 }
 
